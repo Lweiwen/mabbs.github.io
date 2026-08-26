@@ -43,11 +43,3 @@ Powered by [Jekyll](https://github.com/jekyll/jekyll)
 [CDNJS](https://cdnjs.com/)   
 [jsDelivr](https://www.jsdelivr.com/)   
 ……
-
-## 版权声明
-未经作者同意，请勿转载   
-若需转载，请联系作者（主要希望找人聊天~）   
-本站转载的文章如无特别说明，均按原文章的协议执行
-
-## 打赏/赞助 Mayx 
-![QRCode](images/QRCode.png)   
